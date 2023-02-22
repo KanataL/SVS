@@ -5,7 +5,7 @@ Security Verification Standard is a checklist created to improve the audit quali
 
 This list helps to avoid missing the majority of known security problems and vulnerabilities during the audit.
 
-**Objectives** \
+**Objectives** 
 - Help auditors understand general design/implementation/functions for each project type
 - Help auditors understand the risk of each project type
 - Provide a checklkist for security audit
