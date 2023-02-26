@@ -1,10 +1,22 @@
 ## Description
+Sale tokens for funding
+-   fairlaunch: the project sells tokens to every participant fairly.
+-   Launchpad: smart contract allows users to creat their own sales
 
 ## Example Project
 
 ## Main functions/Components
+-   Create launchpad
+-   buy
+-   claim
+-   cancel
 
 ## Risk Parameters
+-   soft cap
+-   hard cap
+-   token price
+-   selling start/end
+-   Claiming start/end
 
 ## Threat Modeling
 
