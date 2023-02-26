@@ -1,10 +1,22 @@
+# Auction
+
 ## Description
+- Centralized auction/Sealed BidUsers bids for items with a given price and the backend node will choose the highest bidder.
+- Decentalized auction/English auctionUser can keep rising the price and the highest bid will be kept in the contract. Seller can call accept bid to complete the auction.
 
 ## Example Project
 
 ## Main functions/Components
+- Create Auction
+- Bid auction
+- Cancel auction
+- Finish auction
 
 ## Risk Parameters
+- auction record
+- bidder address
+- signature
+- fees
 
 ## Threat Modeling
 - Any Front Running Attack vectors?
