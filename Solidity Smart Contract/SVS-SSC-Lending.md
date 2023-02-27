@@ -71,3 +71,6 @@ The decentralized lending protocol allows users to lend or borrow cryptocurrency
 |**8**| Verify that the if the sensitive calculation should be executed within one block or not. |
 |**9**| Verify that the addiontional token mint/burn of following functions are correct: reward, rebase, deposit/withdraw, stake/unstaked, addLiquidity/removeLiquidity, etc.|
 |**10**| Verify that the price slippage is carefully considered when adding/removing liquidity.|
+
+## Others
+- 
